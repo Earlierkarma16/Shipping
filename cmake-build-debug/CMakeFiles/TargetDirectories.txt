@@ -1,0 +1,3 @@
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/Shipping/cmake-build-debug/CMakeFiles/Shipping.dir
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/Shipping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/Shipping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
